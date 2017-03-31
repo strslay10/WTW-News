@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/3d/1c/e3/3d1ce3fb1985505ba88e01e525a8f841.gif")
+}
+.jumbotron {
+    background-color: #00BFFF;
+}
+#rainy {
+   background-color:#00BFFF;
+   color:yellow;
+}
+#sunny {
+    background-color: #00BFFF;
+    color: yellow;
+}
+#cold {
+    background-color: #00BFFF;
+    color: yellow;
+}
