@@ -5,14 +5,20 @@ body {
     background-color: #00BFFF;
 }
 #rainy {
+   text-align:center;
    background-color:#00BFFF;
    color:yellow;
 }
 #sunny {
+    text-align:center;
     background-color: #00BFFF;
     color: yellow;
 }
 #cold {
+    text-align:center;
     background-color: #00BFFF;
     color: yellow;
+}
+body {
+    cursor:url();
 }
